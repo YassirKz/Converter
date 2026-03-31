@@ -7,38 +7,35 @@
 
 A modern, responsive, and visually stunning currency converter designed specifically for **USD ↔ MAD** conversions. This tool provides a seamless user experience with real-time feedback and a premium design aesthetic.
 
-![Converter Showcase](https://github.com/YassirKz/Converter/blob/main/images/image.png?raw=true)
+![Premium Converter Showcase](images/premium_showcase.png)
 
 ## ✨ Features
 
-- **🔄 Bi-directional Conversion**: Easily switch between `USD → MAD` and `MAD → USD` with a simple toggle.
+- **🔄 Bi-directional Conversion**: Easily switch between `USD → MAD` and `MAD → USD` with a modern toggle.
 - **📊 Real-time Exchange Rate**: Enter your own exchange rate or use the default provided.
-- **🎨 Premium UI/UX**: Featuring a glassmorphism container, vibrant gradient backgrounds, and smooth entrance animations.
-- **📱 Fully Responsive**: Optimized for all screen sizes, from mobile devices to large desktops.
+- **🎨 Premium UI/UX**: Featuring a high-fidelity **Mesh Gradient** background and **Neo-Glassmorphism** card design.
+- **📱 Fully Responsive**: Optimized for all devices using a custom mobile-first layout.
 - **⌨️ Keyboard Support**: Press **Enter** in any input field to instantly trigger the conversion.
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: Semantic structure for a solid web foundation.
-- **CSS3**: Custom animations, gradients, and glassmorphism effects.
-- **JavaScript (ES6)**: Clean and efficient logic for currency mathematics.
-- **Bootstrap 5**: Grid system and foundational components for responsiveness.
-- **Google Fonts (Poppins)**: Premium typography for better readability.
+- **HTML5**: Semantic structure.
+- **CSS3 (Custom)**: Animated mesh gradients, glassmorphism, and smooth transitions.
+- **JavaScript (ES6)**: Clean conversion logic and event handlers.
+- **Bootstrap 5**: Grid system for responsive layout.
+- **Google Fonts (Outfit)**: Premium typography.
 
 ## 🚀 Getting Started
 
-To run this project locally:
+Since this is a static web project, no installation or `npm` is required.
 
 1.  **Clone the repository**:
     ```bash
     git clone https://github.com/YassirKz/Converter.git
     ```
-2.  **Navigate to the project directory**:
-    ```bash
-    cd Converter
-    ```
-3.  **Open `index.html`**:
-    Simply double-click the `index.html` file or use a local development server like VS Code's "Live Server" extension.
+2.  **Open the Project**:
+    Simply open the `index.html` file in any modern web browser.
+    *   **Pro Tip**: Use VS Code's **Live Server** extension for the best development experience.
 
 ## 💡 How to Use
 
