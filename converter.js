@@ -26,8 +26,10 @@
         }
 
         // Add Enter key support
-        document.getElementById('amount').addEventListener('keypress', function() {
-            if (key === 'Enter') {
-                convertCurrency();
-            }
+        ['amount', 'exchangeRate'].forEach(id => {
+            document.getElementById(id).addEventListener('keypress', function(event) {
+                if (event.key === 'Enter') {
+                    convertCurrency();
+                }
+            });
         });
